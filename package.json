@@ -1,0 +1,24 @@
+{
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "Your Own Snake Game:\r                            >> HOW TO PLAY <<\r --------------------------------------------------------------------------\r 1. Download the complete files.\r 2. store it in any folder or on your desktop.\r 3. Double click on INDEX.html.\r 4. Enjoy Your Snake Game.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brahmjit24/snakegame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brahmjit24/snakegame/issues"
+  },
+  "homepage": "https://github.com/brahmjit24/snakegame#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
